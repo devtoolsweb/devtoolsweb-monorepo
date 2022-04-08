@@ -1,0 +1,17 @@
+.*
+[0-9].*
+*-lock.*
+*.[0-9]
+*.code-workspace
+*.gz
+*.lock
+*.log
+*.out
+*.tar
+*.tgz
+*~
+\#*
+node_modules
+packages
+!*rc.js
+!.gitignore

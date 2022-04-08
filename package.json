@@ -1,0 +1,8 @@
+{
+  "name": "devtoolsweb-monorepo",
+  "private": true,
+  "devDependencies": {},
+  "workspaces": [
+    "packages/*"
+  ]
+}
