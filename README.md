@@ -1,12 +1,5 @@
-# TSLint
-TSLint is a code linter that helps catch minor code quality and style issues.
+# devtoolsweb-monorepo
 
-## TSLint rules
-All rules are configured through `tslint.json`.
+## Contributing
 
-## Running TSLint
-```
-npm run lint
-```
-# Common Issues
-
+Follow the instructions in CONTRIBUTING.md
